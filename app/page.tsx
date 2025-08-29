@@ -230,7 +230,7 @@ export default function LandingPage() {
           </h3>
           <p className="text-xl text-[#B8C5D1] mb-8 max-w-2xl mx-auto">
             Join thousands of users who have already improved their health with
-            Nutrivine's intelligent tracking.
+            {"Nutrivine's intelligent tracking."}
           </p>
           <Button
             size="lg"
